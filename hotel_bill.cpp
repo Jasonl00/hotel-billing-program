@@ -44,7 +44,7 @@ int main() {
 
 	totaltax = subtotal * tax; 
 
-	total = totaltax + subtotal; 
+	total = subtotal + totaltax; 
 
 	tiptotal = tip * NumofRooms * days;
 
