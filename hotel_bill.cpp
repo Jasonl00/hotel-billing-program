@@ -44,11 +44,11 @@ int main() {
 
 	totaltax = subtotal * tax; 
 
-	total = totaltax += subtotal; 
+	total = totaltax + subtotal; 
 
 	tiptotal = tip * NumofRooms * days;
 
-	alltotal = total += tiptotal;
+	alltotal = total + tiptotal;
 
 	// Display the total of the stay all together
 
