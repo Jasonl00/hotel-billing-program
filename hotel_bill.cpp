@@ -60,7 +60,7 @@ int main() {
 
 	cout << "\nRecommended gratuity @ $5 per day per room: $" << tiptotal << endl;
 
-	cout << "\nYour total bill after tax is: $" << totaltax << endl;
+	cout << "\nYour total bill after tax is: $" << total << endl;
 
 	cout << "\nYour total bill comes to: $" << alltotal << endl;
 
